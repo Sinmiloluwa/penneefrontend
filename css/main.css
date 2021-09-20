@@ -1,0 +1,66 @@
+.bg{
+    background-color: #EFEAFF;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Mulish', 'Roboto';
+}
+
+.layout{
+    margin-top: 100px;
+}
+
+
+.text {
+   padding-left: 50px;
+   font-family: 'Mulish';
+}
+
+.image{
+    margin-right: 0px;
+}
+
+.image img{
+    width:500px;
+    height: 500px;
+}
+
+.text-info {
+    text-align: center;
+    font: normal normal 800 60px/75px Muli;
+    opacity: 1;
+    letter-spacing: 0px;
+}
+
+.text-info h3{
+    color: #021c34;
+    font-family: 'Mulish';
+    margin-top: 50px;
+}
+
+.svg-background{
+    background-color: #F8F5FF;
+}
+
+.svg-background img{
+    position: absolute;
+    top: 500px;
+    left: 1100px;
+}
+
+.some{
+    color: #021c34;
+    font-size: 20px;
+    font-family: 'Mulish';
+}
+
+.partners ul li{
+    list-style: none;
+    display: inline;
+    text-align: center;
+    padding: 10px;
+}
+
+.partners ul li img{
+    width: 70px;
+    height: 70px
+}
